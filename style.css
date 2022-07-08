@@ -1,0 +1,100 @@
+/* #btns {
+    width:75%;
+    position:relative;
+}
+
+#btn1 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn2 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn3 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn4 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn5 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn6 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn7 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn8 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#btn9 {
+    width: 30%;
+    position: relative;
+    height: 48px;
+    font-size: 24px; 
+}
+
+#contain {
+    width: 400px;
+    height: 400px;
+    background: cornflowerblue;
+    position: relative;
+}
+
+#box {
+    width: 50px;
+    height: 50px;
+    background: white;
+    position:absolute;
+
+} */
+
+body {
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
